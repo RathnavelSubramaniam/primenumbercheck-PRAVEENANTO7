@@ -17,7 +17,7 @@ function isPrime(num) {
     return true;
 }
 if (ispPime(n)) { 
-    console.log("prime Number");
+    console.log("Prime Number");
 }else{
     console.log("Not Prime Number");
 }
